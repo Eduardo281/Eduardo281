@@ -1,8 +1,15 @@
-### Hi there 👋
+# Eduardo Teixeira
 
+## Hey there! I am using GitHub 💻
+
+![](https://github-readme-stats.vercel.app/api?username=Eduardo281&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Eduardo281&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo281&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edteixeira)
+[![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:eduardo281.dev@gmail.com) 
+  
 <!--
-**Eduardo281/Eduardo281** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
