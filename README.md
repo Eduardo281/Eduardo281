@@ -3,8 +3,10 @@
 ## Hey there! I am using GitHub 💻
 
 <p margin="0" padding="0" align="center">
+<a href="https://github.com/Eduardo281">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo281&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Eduardo281's GitHub Statistics" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo281&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Eduardo281's main languages" />
+</a>
 </p>
 
 ### Mini biografia tech
