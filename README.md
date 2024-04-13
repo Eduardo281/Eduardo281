@@ -2,16 +2,7 @@
 
 ## Hey there! I am using GitHub 💻
 
-<p margin="0" padding="0" align="center">
-<a href="https://github.com/Eduardo281">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Eduardo281&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="Eduardo281's GitHub Statistics" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo281&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Eduardo281's main languages" />
-</a>
-</p>
-
-### Mini biografia tech
-
-Bacharel, Mestre e (quase) Doutor em Matemática Aplicada, sigo em um relacionamento sério com a programação de computadores desde 2019. Depois de navegar brevemente por mares diversos dentro do assunto - programação de jogos, desenvolvimento web, mobile, bancos de dados - conclui que a minha paixão tech era, de fato, o trabalho com dados. Desde então sigo no processo de aprender ao máximo e, sempre que possível, ensinar o que aprendi durante essa caminhada.
+Analista de dados, bacharel, mestre e doutor em Matemática Aplicada, trabalhando com problemas que envolvem desde análise exploratória de dados até o desenvolvimento de ferramentas de análise prescritiva baseadas em Pesquisa de Operações.
 
 ### Contatos
   
