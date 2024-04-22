@@ -1,11 +1,7 @@
 # Eduardo Teixeira
 
-## Hey there! I am using GitHub 💻
+Data Analyst from Brazil, working mainly on Operations Research problems
 
-Analista de dados, bacharel, mestre e doutor em Matemática Aplicada, trabalhando com problemas que envolvem desde análise exploratória de dados até o desenvolvimento de ferramentas de análise prescritiva baseadas em Pesquisa de Operações.
-
-### Contatos
-  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/edteixeira)
 [![Email](https://img.shields.io/badge/Email-%23D14836.svg?logo=gmail&logoColor=white)](mailto:eduardo281.dev@gmail.com) 
   
